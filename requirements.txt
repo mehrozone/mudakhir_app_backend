@@ -7,12 +7,12 @@ chardet==3.0.4
 coreapi==2.3.3
 coreschema==0.0.4
 django-cors-headers==3.2.1
-Django==2.2.12
+Django==2.2.16
 django-extra-views==0.11.0
 django-haystack==2.8.1
 django-rest-framework==0.1.0
 djangorestframework-jwt==1.11.0
-django-rest-swagger==2.2.0
+drf-yasg==1.20.0
 django-storages==1.9.1
 djangorestframework==3.11.0
 docopt==0.6.2
@@ -39,4 +39,6 @@ uritemplate==3.0.1
 yarg==0.1.9
 django-leaflet==0.27.0
 gunicorn==20.0.4
+whitenoise==5.2.0
+python-dotenv==0.19.0
 #uWSGI==2.0.18
